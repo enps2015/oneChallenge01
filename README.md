@@ -124,11 +124,4 @@ http://localhost:8080 (ou diretamente pelo arquivo aberto)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-np-santos/) Eric Pimentel  
 **Que a Força esteja com você! 🚀 ✨**
 
-- Instagram: [@eric.n.pimentel](https://www.instagram.com/eric.n.pimentel/)  
-- GitHub: [enps2015](https://github.com/enps2015)
 
----
-
-> "Que a Força esteja com você!"
-
--
