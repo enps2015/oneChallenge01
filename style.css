@@ -1,0 +1,166 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Configuração geral da página */
+  html, body {
+    height: 100%; /* Garante que a página ocupe toda a altura disponível */
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column; /* Alinha os elementos verticalmente */
+    background: url('assets/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: gold;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  .container {
+    flex: 1; /* O container principal cresce para preencher o espaço disponível */
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+  }
+  
+  .logo {
+    width: 150px;
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .input-group {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  #nomeInput {
+    padding: 10px;
+    width: calc(100% - 220px); /* Ajusta o tamanho do campo de texto */
+    border: 2px solid gold;
+    border-radius: 5px;
+    background: black;
+    color: gold;
+  }
+  
+  #adicionarBtn, #sortearBtn, #reiniciarBtn {
+    padding: 10px 20px;
+    width: 100px; /* Tamanho fixo para os botões */
+    background: gold;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    margin-left: 10px; /* Adiciona espaço entre os botões */
+  }
+  
+  #adicionarBtn:hover, #sortearBtn:hover, #reiniciarBtn:hover {
+    background: #FFD700; /* Cor dourada mais vibrante ao passar o mouse */
+  }
+  
+  ul {
+    list-style: none;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    margin: 5px 0;
+    padding: 10px;
+    background: rgba(255, 215, 0, 0.2);
+    border: 1px solid gold;
+    border-radius: 5px;
+  }
+  
+  .resultado {
+    margin-top: 20px;
+    padding: 10px;
+    background: rgba(255, 215, 0, 0.3);
+    border: 2px solid gold;
+    border-radius: 5px;
+  }
+  
+  /* Estilização do footer */
+  .footer {
+    margin-top: auto; /* Empurra o footer para o final da página */
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .footer-content p {
+    color: gold;
+    margin-bottom: 10px;
+    font-size: 1rem;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .social-icon {
+    width: 30px;
+    height: 30px;
+    filter: invert(1); /* Inverte as cores das imagens para branco */
+    transition: filter 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    filter: invert(0); /* Retorna à cor original ao passar o mouse */
+  }
+  
+  /* Centraliza o botão "Sortear Amigo" */
+  #sortearBtn {
+    margin: 20px auto 0;
+    display: block;
+  }
+  
+  /* Responsividade */
+  @media (max-width: 600px) {
+    .container {
+      max-width: 100%;
+      padding: 10px;
+    }
+  
+    .logo {
+      width: 100px;
+    }
+  
+    h1 {
+      font-size: 1.5rem;
+    }
+  
+    .input-group {
+      flex-direction: column;
+    }
+  
+    #nomeInput {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  
+    #adicionarBtn, #sortearBtn, #reiniciarBtn {
+      width: 100%;
+      margin-left: 0; /* Remove o espaçamento em dispositivos móveis */
+    }
+  }
