@@ -120,8 +120,24 @@ http://localhost:8080 (ou diretamente pelo arquivo aberto)
 
 ## 👨‍💻 Autor
 ---
-**Desenvolvido por:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-np-santos/) Eric Pimentel  
-**Que a Força esteja com você! 🚀 ✨**
+**Desenvolvido por:** Eric Pimentel  
+**"Do tamanho da sua fé, será o seu caminho." - Mestre Yoda 🚀 ✨**
 
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/eric-np-santos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/enps2015">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://www.instagram.com/eric.n.pimentel/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+  </a>
+</div>
+
+---
+
+> "Que a Força esteja com você!"
+
+---
 
