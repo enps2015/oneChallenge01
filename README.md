@@ -1,4 +1,3 @@
-
 # Star Wars Amigo Secreto
 
 ![Header Image](assets/starwars-logo.png)
@@ -49,15 +48,15 @@ A aplicação apresenta diversas interações visuais que permitem explorar:
 
 ## 📸 Capturas de Telas
 ### Visão Geral da Aplicação
-![Captura 1](capturaTelas/capturaTela01.png)  
+![Captura 1](capturaTelas/captutaTela01.png)  
 *Interface principal com campo de texto, botões e lista de nomes.*
 
 ### Sorteio de Amigo Secreto
-![Captura 2](capturaTelas/capturaTela02.png)  
+![Captura 2](capturaTelas/captutaTela02.png)  
 *Interface principal, com campo de texto, botões e lista de nomes, com responsividade ativada.*
 
-### Footer Personalizado
-![Captura 3](capturaTelas/VideoTela.mp4)  
+### Demonstração em Vídeo
+[Vídeo Demonstrativo](capturaTelas/VideoTela.mp4)  
 *Vídeo demonstrando a inserção de nomes, sorteio e a responsividade sendo ativada.*
 
 ---
