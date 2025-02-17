@@ -49,16 +49,16 @@ A aplicação apresenta diversas interações visuais que permitem explorar:
 
 ## 📸 Capturas de Telas
 ### Visão Geral da Aplicação
-![Captura 1](assets/capturaTela01.png)  
+![Captura 1](capturaTelas/capturaTela01.png)  
 *Interface principal com campo de texto, botões e lista de nomes.*
 
 ### Sorteio de Amigo Secreto
-![Captura 2](assets/capturaTela02.png)  
-*Resultado do sorteio exibido em destaque após clicar no botão "Sortear Amigo".*
+![Captura 2](capturaTelas/capturaTela02.png)  
+*Interface principal, com campo de texto, botões e lista de nomes, com responsividade ativada.*
 
 ### Footer Personalizado
-![Captura 3](assets/capturaTela03.png)  
-*Rodapé com links para redes sociais e informações de desenvolvimento.*
+![Captura 3](capturaTelas/VideoTela.mp4)  
+*Vídeo demonstrando a inserção de nomes, sorteio e a responsividade sendo ativada.*
 
 ---
 
